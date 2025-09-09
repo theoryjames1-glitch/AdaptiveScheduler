@@ -1,9 +1,5 @@
 # AdaptiveScheduler
 
-here’s a **README.md** you can drop straight into a GitHub repo for your `AdaptiveScheduler`. it blends the theory you’ve worked out with clear install / usage docs, examples, and notes.
-
----
-
 ````markdown
 # 🔀 AdaptiveScheduler
 
@@ -150,7 +146,6 @@ Safety:
 * [ ] EMA smoothing behaves as expected
 * [ ] `state_dict()` round-trips
 
----
 
 ## 📊 Benchmarks
 
