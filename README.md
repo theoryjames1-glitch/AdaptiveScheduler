@@ -1,5 +1,3 @@
-# AdaptiveScheduler
-
 
 # 🔀 AdaptiveScheduler
 
