@@ -178,9 +178,3 @@ MIT
 
 Issues and PRs welcome! Please add tests for new rules or hyperparameters.
 
-```
-
----
-
-do you want me to also draft a **minimal `examples/` script** (e.g. `examples/train_with_rewards.py`) that users can run end-to-end with TRL + AdaptiveScheduler?
-```
