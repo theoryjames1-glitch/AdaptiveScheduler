@@ -1,6 +1,6 @@
 # AdaptiveScheduler
 
-````markdown
+
 # 🔀 AdaptiveScheduler
 
 An **adaptive, signal-driven learning rate & momentum scheduler** for PyTorch.  
